@@ -24,3 +24,4 @@ rightnavEL.addEventListener("click", () => {
     rightnavEL.classList.remove("nav-open");
     hamburgerEl.classList.remove("hamburger--open")
 });
+
