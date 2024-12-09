@@ -1086,13 +1086,12 @@ input::placeholder {
   }
 
   .max-flex1 {
-    padding: 0 1rem;
     width: 90%;
   }
 
   .max-flex1 p {
     background-color: rgba(255, 255, 255, 0.9);
-    padding: 10px 32px;
+    padding: 10px 5px;
     border: 4px solid rgba(255, 255, 255, 0.4);
     border-radius: 52px;
     text-align: center;
