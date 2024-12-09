@@ -1108,7 +1108,7 @@ input::placeholder {
     font-size: 20px;
     font-weight: 500;
     color: rgba(17, 63, 24, 1);
-    width: 97%;
+    width: 95%;
     margin: 2rem 0;
     transition: none;
     cursor: pointer;
@@ -1149,7 +1149,7 @@ input::placeholder {
   }
 
   .faq-grid {
-    width: 100%;
+    width: 95%;
     margin: 1rem auto;
     display: grid;
     gap: 1.5rem 0.5rem;
@@ -1162,11 +1162,11 @@ input::placeholder {
   }
 
   .footer-subscribe input[type="text"] {
-    width: 100%;
+    width: 95%;
   }
 
   .footer-btn {
-    width: 100%;
+    width: 95%;
   }
 
   .footer-flex2 {
