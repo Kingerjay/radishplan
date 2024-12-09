@@ -1020,6 +1020,9 @@ input::placeholder {
 }
 
 @media screen and (max-width: 450px) {
+  .container {
+    width: 95%;
+  }
   /* Header */
 
   /* Hero Section */
