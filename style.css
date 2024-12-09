@@ -1064,11 +1064,11 @@ input::placeholder {
 
   /* Benefit Section */
   .benefit-section {
-    width: 95%;
+    width: 100%;
   }
 
   .benefit-flex {
-    width: 95%;
+    width: 100%;
     flex-direction: column;
     gap: 5rem;
   }
@@ -1095,7 +1095,7 @@ input::placeholder {
   }
 
   .max-flex1 {
-    width: 90%;
+    width: 100%;
   }
 
   .max-flex1 p {
@@ -1108,7 +1108,7 @@ input::placeholder {
     font-size: 20px;
     font-weight: 500;
     color: rgba(17, 63, 24, 1);
-    width: 95%;
+    width: 97%;
     margin: 2rem 0;
     transition: none;
     cursor: pointer;
@@ -1120,7 +1120,7 @@ input::placeholder {
 
   /* Growing Section */
   .grow-section {
-    width: 97%;
+    width: 100%;
   }
 
   .grow-grid {
@@ -1145,11 +1145,11 @@ input::placeholder {
 
   /* FAQs Section */
   .faq-section {
-    width: 97%;
+    width: 100%;
   }
 
   .faq-grid {
-    width: 95%;
+    width: 100%;
     margin: 1rem auto;
     display: grid;
     gap: 1.5rem 0.5rem;
@@ -1158,15 +1158,15 @@ input::placeholder {
 
   /* Footer Section */
   footer {
-    width: 95%;
+    width: 100%;
   }
 
   .footer-subscribe input[type="text"] {
-    width: 95%;
+    width: 100%;
   }
 
   .footer-btn {
-    width: 95%;
+    width: 100%;
   }
 
   .footer-flex2 {
