@@ -1087,6 +1087,7 @@ input::placeholder {
 
   .max-flex1 {
     padding: 0 1rem;
+    width: 90%;
   }
 
   .max-flex1 p {
