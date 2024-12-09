@@ -1021,7 +1021,8 @@ input::placeholder {
 
 @media screen and (max-width: 450px) {
   .container {
-    width: 95%;
+    width: 98%;
+    margin: 0 auto;
   }
   /* Header */
 
