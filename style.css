@@ -1059,6 +1059,10 @@ input::placeholder {
   /* ENd of Header */
 
   /* Benefit Section */
+  .benefit-section {
+    width: 95%;
+  }
+
   .benefit-flex {
     width: 95%;
     flex-direction: column;
