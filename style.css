@@ -1060,6 +1060,7 @@ input::placeholder {
 
   /* Benefit Section */
   .benefit-flex {
+    width: 97%;
     flex-direction: column;
     gap: 5rem;
   }
@@ -1099,7 +1100,7 @@ input::placeholder {
     font-size: 20px;
     font-weight: 500;
     color: rgba(17, 63, 24, 1);
-    width: 400px;
+    width: 300px;
     margin: 2rem 0;
     transition: none;
     cursor: pointer;
@@ -1110,6 +1111,10 @@ input::placeholder {
   }
 
   /* Growing Section */
+  .grow-section {
+    width: 97%;
+  }
+
   .grow-grid {
     grid-template-columns: auto;
   }
@@ -1131,6 +1136,10 @@ input::placeholder {
   }
 
   /* FAQs Section */
+  .faq-section {
+    width: 97%;
+  }
+
   .faq-grid {
     width: 95%;
     margin: 1rem auto;
