@@ -1019,7 +1019,7 @@ input::placeholder {
   }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 400px) {
   /* Header */
 
   /* Hero Section */
@@ -1085,6 +1085,10 @@ input::placeholder {
     height: 450px;
   }
 
+  .max-flex1 {
+    padding: 0 1rem;
+  }
+
   .max-flex1 p {
     background-color: rgba(255, 255, 255, 0.9);
     padding: 10px 32px;
@@ -1092,7 +1096,7 @@ input::placeholder {
     border-radius: 52px;
     text-align: center;
     font-family: "Lato", sans-serif;
-    font-size: 32px;
+    font-size: 20px;
     font-weight: 500;
     color: rgba(17, 63, 24, 1);
     width: 500px;
