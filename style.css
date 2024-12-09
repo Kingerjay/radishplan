@@ -1060,7 +1060,7 @@ input::placeholder {
 
   /* Benefit Section */
   .benefit-flex {
-    width: 97%;
+    width: 95%;
     flex-direction: column;
     gap: 5rem;
   }
@@ -1100,7 +1100,7 @@ input::placeholder {
     font-size: 20px;
     font-weight: 500;
     color: rgba(17, 63, 24, 1);
-    width: 300px;
+    width: 95%;
     margin: 2rem 0;
     transition: none;
     cursor: pointer;
@@ -1159,7 +1159,9 @@ input::placeholder {
 
   .footer-flex2 {
     display: flex;
-    gap: 3rem;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
   }
 
   .footer-link-head {
