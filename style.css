@@ -1100,7 +1100,7 @@ input::placeholder {
     font-size: 20px;
     font-weight: 500;
     color: rgba(17, 63, 24, 1);
-    width: 500px;
+    width: fit-content;
     margin: 2rem 0;
     transition: none;
     cursor: pointer;
