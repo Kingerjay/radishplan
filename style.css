@@ -1020,10 +1020,10 @@ input::placeholder {
 }
 
 @media screen and (max-width: 450px) {
-  .container {
+  /* .container {
     width: 98%;
     margin: 0 auto;
-  }
+  } */
   /* Header */
 
   /* Hero Section */
@@ -1158,11 +1158,11 @@ input::placeholder {
 
   /* Footer Section */
   footer {
-    width: 100%;
+    width: 95%;
   }
 
   .footer-subscribe input[type="text"] {
-    width: 95%;
+    width: 92%;
   }
 
   .footer-btn {
