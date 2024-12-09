@@ -1149,6 +1149,10 @@ input::placeholder {
   }
 
   /* Footer Section */
+  footer {
+    width: 95%;
+  }
+
   .footer-subscribe input[type="text"] {
     width: 95%;
   }
@@ -1166,6 +1170,7 @@ input::placeholder {
 
   .footer-link-head {
     font-size: 17px;
+    text-align: center;
   }
 
   .footer-link-border {
