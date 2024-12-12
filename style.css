@@ -1020,10 +1020,6 @@ input::placeholder {
 }
 
 @media screen and (max-width: 450px) {
-  /* .container {
-    width: 98%;
-    margin: 0 auto;
-  } */
   /* Header */
 
   /* Hero Section */
@@ -1037,6 +1033,16 @@ input::placeholder {
   .hero-flex1 p {
     width: 100%;
     text-align: center;
+  }
+
+  .hero-flex2 {
+    width: 300px;
+    height: 300px;
+  }
+
+  .hero-flex2 img {
+    width: 300px;
+    height: 300px;
   }
 
   .hero-img1 {
@@ -1195,4 +1201,7 @@ input::placeholder {
   .footer-bottom p {
     font-size: 16px;
   }
+}
+
+@media screen and (max-width: 380px) {
 }
