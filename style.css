@@ -1035,16 +1035,6 @@ input::placeholder {
     text-align: center;
   }
 
-  .hero-flex2 {
-    width: 300px;
-    height: 300px;
-  }
-
-  .hero-flex2 img {
-    width: 300px;
-    height: 300px;
-  }
-
   .hero-img1 {
     flex-wrap: wrap;
     gap: 1rem;
@@ -1164,7 +1154,7 @@ input::placeholder {
 
   /* Footer Section */
   footer {
-    width: 95%;
+    width: 99%;
   }
 
   .footer-subscribe input[type="text"] {
@@ -1177,14 +1167,13 @@ input::placeholder {
 
   .footer-flex2 {
     display: flex;
-    gap: 2rem;
-    justify-content: center;
+    gap: 1rem;
+    justify-content: space-around;
     align-items: center;
   }
 
   .footer-link-head {
     font-size: 17px;
-    text-align: center;
   }
 
   .footer-link-border {
@@ -1204,4 +1193,68 @@ input::placeholder {
 }
 
 @media screen and (max-width: 380px) {
+  .hero-flex2 {
+    width: 300px;
+    height: 300px;
+  }
+
+  .hero-flex2 img {
+    width: 300px;
+    height: 300px;
+  }
+
+  .benefit-head {
+    font-size: 30px;
+    font-weight: 600;
+  }
+
+  .max-head {
+    font-size: 30px;
+    font-weight: 600;
+  }
+
+  .grow-head {
+    font-size: 30px;
+    font-weight: 600;
+  }
+
+  .customer-head {
+    font-size: 30px;
+    font-weight: 600;
+  }
+
+  .customer-text {
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .customer-name {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .faq-grid {
+    width: 95%;
+    margin: 2rem auto;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(1, auto);
+  }
+
+  .footer-text1,
+  .footer-text2,
+  .footer-btn {
+    width: 350px;
+  }
+
+  .footer-btn {
+    width: 300px;
+  }
+
+  .footer-flex2 {
+    display: flex;
+    gap: 2rem;
+    justify-content: space-around;
+    align-items: center;
+  }
 }
